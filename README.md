@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakubMusialik
-- 👀 I’m interested in all kind of new tech to learn
-- 🌱 I’m currently learning backend Java developement
+- 👀 I’m interested in mastering Spring.
+- 🌱 I’m currently learning backend Java developement(Spring apps)
 - 💞️ I’m looking to collaborate on projects that already exist or creating new ones.
 - 📫 How to reach me via mail: musialikjakub@yahoo.com
 
