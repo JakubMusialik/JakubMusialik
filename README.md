@@ -22,7 +22,7 @@ width="21px"/></a>
 
 ## 🔭 I'm currently working on
 
-- Client and company projects in Objectivity as Java Software Developer
+- Client and company projects in Objectivity as Java Software Engineer
 - My old projects
 - Reactive Java Programming
 
