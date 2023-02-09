@@ -53,8 +53,6 @@ Frameworks : </br>
 
 Code editors: </br>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) </br>
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) </br>
-
 </br>
 
 ## 📈 GitHub Stats 
