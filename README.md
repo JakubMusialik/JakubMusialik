@@ -22,15 +22,13 @@ width="21px"/></a>
 
 ## 🔭 I'm currently working on
 
-- Client and company projects in Objectivity as Java Software Engineer
-- My old projects
+- Company projects as Java Engineer
 - Reactive Java Programming
 
 ## 🌱 I'm currently learning from scratch or expand knowledge in: </br>
 
 - Java
-- Angular
-- Swift
+- React
 
 ## 💼 Technical Skills
 Main technology: </br>
